@@ -1,0 +1,23 @@
+{
+  "name": "tryhls",
+  "version": "1.0.0",
+  "description": "playing with HLS",
+  "main": "index.js",
+  "dependencies": {
+    "hls.js": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafutomo/tryHLS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafutomo/tryHLS/issues"
+  },
+  "homepage": "https://github.com/mafutomo/tryHLS#readme"
+}
